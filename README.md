@@ -17,7 +17,8 @@
 ## 📸 Giao diện phần mềm
 
 <div align="center">
-  <img src="đường-dẫn-ảnh-hoặc-screenshot-của-bạn.png" alt="Pimax Studio LAN Sharing Manager GUI" width="850px">
+ <img width="890" height="654" alt="Screenshot 2026-10-27 135323" src="https://github.com/user-attachments/assets/93ab0a31-2a9b-4f03-88cc-a2e4bff6291b" />
+
 </div>
 
 ---
