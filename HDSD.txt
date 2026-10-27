@@ -1,0 +1,2 @@
+1. Hai máy tính phải kết nối chung 1 mạng wifi hoặc cắm cap LAN
+2. Nhấn douple vào Pimax_LAN_Sharing_Manager.exe để chạy
